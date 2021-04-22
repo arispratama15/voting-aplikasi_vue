@@ -1,0 +1,40 @@
+{
+    listsongs: [
+        {
+            id: 1
+            band: 'JKT48',
+            title: 'HEAVY ROTATION',
+            score: 0
+        },
+        {
+            id: 2
+            band: 'JKT48',
+            title: 'RIVER',
+            score: 0
+        },
+        {
+            id: 3
+            band: 'JKT48',
+            title: 'HEART GATA VIRUS',
+            score: 0
+        },
+        {
+            id: 4
+            band: 'PROJECT POP',
+            title: 'BUKAN SUPERSTAR',
+            score: 0
+        },
+        {
+            id: 5
+            band: 'JKT48',
+            title: 'FORTUNE COOKIE',
+            score: 0
+        },
+        {
+            id: 6
+            band: 'FAHMI SHAHAB',
+            title: 'KOPI DANGDUT',
+            score: 0
+        }
+    ]
+}
